@@ -12,6 +12,7 @@
     "js-guid": "^1.0.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22",
     "url-parse": "^1.5.10"
   }
 }
